@@ -49,11 +49,22 @@ Web3.0是读+写+去中心的
 - Web3具备本地支付功能：它使用加密货币进行在线消费和转账，而不依赖于过时的银行和支付处理机构的基础设施。
 - Web3是无需信任的：它通过激励和经济机制运作，而不依赖于可信第三方。
 
+## 入门Web3.0的资源
+
+了解这些基本常识后，就可以行动了。你可以通过以下步骤进行探索。
+
+- [Get a wallet](https://ethereum.org/en/wallets/)
+- [Find a community](https://ethereum.org/en/community/)
+- [Explore Web3 applications](https://ethereum.org/en/dapps/)
+- [Join a DAO](https://ethereum.org/en/dao/)
+- [Build on Web3](https://ethereum.org/en/developers/)
+
 ## Web3.0的已有应用
 
 既可以说Web3.0是一个概念，也可以说它是一个生态。
 它并不是一种具体的技术。就像我们也可以说微博是基于Web2.0一样。  如果非要说，那么Web3.0的已有应用有这些
 
+- 智能合约
 - 区块链
 - 比特币
 - NFT
@@ -61,12 +72,30 @@ Web3.0是读+写+去中心的
 - 元宇宙
 - ChatGPT
 
-## 入门Web3.0的资源
+# 智能合约
 
-了解这些基本常识后，就可以行动了。你可以通过这些资源进行探索。
+This is a page for 智能合约
 
-- [Get a wallet](https://ethereum.org/en/wallets/)
-- [Find a community](https://ethereum.org/en/community/)
-- [Explore Web3 applications](https://ethereum.org/en/dapps/)
-- [Join a DAO](https://ethereum.org/en/dao/)
-- [Build on Web3](https://ethereum.org/en/developers/)
+# 区块链
+
+This is a page for 区块链
+
+# 比特币
+
+This is a page for 比特币
+
+# NFT
+
+This is a page for NFT
+
+# 加密货币
+
+This is a page for 加密货币
+
+# 元宇宙
+
+This is a page for 元宇宙
+
+# ChatGPT
+
+This is a page for ChatGPT
