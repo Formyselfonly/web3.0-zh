@@ -64,5 +64,5 @@ Web3.0是读+写+去中心的
 - [比特币](bi-te-bi.md)
 - [NFT](NFT.md)
 - [加密货币](jia-mi-huo-bi.md)
-- [元宇宙](yuan-yu-zhou)
+- [元宇宙](yuan-yu-zhou.md)
 - [ChatGPT](ChatGPT.md)
