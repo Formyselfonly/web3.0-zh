@@ -4,6 +4,8 @@
 
 ## Web3.0是什么？
 
+Web2.0+AI+去中心化=Web3.0 这是最简单的描述方式
+
 _ChatGPT的回答_：**Web3.0是下一代互联网，通过区块链和去中心化技术实现了去中心化的应用、智能合约和用户控制的新型互联网生态系统。**
 
 现有的互联网是集中的，而我们需要一种分布式的互联网 这就是新一代互联网web3.0
@@ -102,6 +104,22 @@ Web3.0实现了反转，将数据的所有权由平台反转到了创造者身�
 
   web2.0基础上的技术加上：solidity,密码学，区块链原理，智能合约，钱包概念，NFT理念，分布式存储（IPFS,星际文件系统 InterPlanetary File System）,http3.0等
 
+## Web3.0常见术语
+
+- **Web3：**它是以太坊区块链 Ethereum blockchain 和你的智能合约 Smart Contracts 之间的连接。
+
+- **以太坊 Ethereum：**一个去中心化的开源区块链 blockchain，允许用户通过创建智能合约 creating smart contracts 与网络进行交互。它的原生加密货币是以太币。就市值而言，以太币是仅次于比特币的第二大最有价值的加密货币。它由 Vitalik Buterin 于 2013 年创建。
+
+- **智能合约 Smart Contracts ：**它们是存储在区块链上的计算机程序 computer programs ，在满足预定条件时运行。智能合约是用 Solidity 语言编写的。
+
+- **去中心化 Decentralized ：**数据状态不由中央实体 central entity、平台 platform 或个人 individual 收集
+
+- **区块链：**区块链网络是一种点对点连接，其中信息在多个设备之间共享，几乎不可能被黑客入侵。它是一种记录信息的系统，其方式使得很难或不可能更改保存在网络上的信息。
+
+- **Solidity：**一种用于编写智能合约 writing smart contracts 的面向对象 object-oriented 的编程语言。它用于在各种区块链平台上实施智能合约，最著名的是以太坊。Solidity 的语法类似于 javascript。要了解 Solidity，最好有 javascript 等编程语言的背景。直接跳入 Solidity 是一个坏主意
+
+- **Dapp：**代表去中心化应用程序 Decentralized App 。它们是在去中心化网络或区块链上运行其后端代码（主要用 Solidity 编写的智能合约）的应用程序。可以使用 react、vue 或 Angular 等前端框架构建 Dapps。
+
 ## 入门Web3.0的资源
 
 ![web1vs2vs3](./imgs/web1vs2vs3.png)
@@ -114,14 +132,65 @@ Web3.0实现了反转，将数据的所有权由平台反转到了创造者身�
 - [Join a DAO](https://ethereum.org/en/dao/)
 - [Build on Web3](https://ethereum.org/en/developers/)
 
+## Web3学习路线
+
+- 技术
+
+  - 语言&框架
+
+    - JavaScript+solidity
+
+      Solidity是一种静态类型、使用花括号语法的编程语言，专门用于开发在以太坊上运行的智能合约。
+
+    - Vue+React
+
+  - Python库
+
+    - ethers.js
+
+    - web3.js
+
+      - Web3.js是一个库集合，允许您使用 HTTP、IPC 或 WebSocket 与本地或远程以太坊节点进行交互。
+
+      - **Web3.js**允许您开发与区块链交互的网站或客户端。例如，它允许您将以太币从一个账户发送到另一个账户、从智能合约读取和写入数据、创建智能合约等等！
+
+      - **Web3.js**可用于前端和后端检查账户余额、从区块链读取数据、进行交易，甚至部署智能合约。
+
+  - 智能合约
+
+  - 公链
+
+- 主要语言
+
+  - Solidity
+
+    制作智能合约 smart contract
+
+  - Javascript
+
+    测试smart contract
+
+  一旦你掌握了Solidity和JavaScript，你就能够轻松地创建令人惊叹的作品，例如加密货币和非同质化代币（NFTs）。
+
+  你可以开始构建项目、运行代码并跟随教程，然后将你的成果添加到简历中。
+
+  完成这些步骤后，你就可以开始寻找工作机会，并有机会赚取六位数的收入（针对其他国家而言）。
+
+- 所需要的核心能力
+
+  NFT，加密货币，DAPP
+
+  - Minting NFTs
+  - Creating cryptocurrencies
+  - Making DApps (decentralized application)
+
 ## Web3.0的已有应用
 
 既可以说Web3.0是一个概念，也可以说它是一个生态，或者是一个愿景。 它并不是一种具体的技术。比如说TOP1高校，好像有些学校在里面也不在里面，好像可以说微博是基于Web2.0一样。 如果非要说，那么Web3.0的已有应用有这些
 
 - [Web3.0入门](README.md)
+- [区块链&比特币](qu-kuai-lian.md)
 - [智能合约](zhi-neng-he-yue.md)
-- [区块链](qu-kuai-lian.md)
-- [比特币](bi-te-bi.md)
 - [NFT](NFT.md)
 - [加密货币](jia-mi-huo-bi.md)
 - [元宇宙](yuan-yu-zhou.md)
