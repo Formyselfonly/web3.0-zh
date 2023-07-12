@@ -132,57 +132,100 @@ Web3.0实现了反转，将数据的所有权由平台反转到了创造者身�
 - [Join a DAO](https://ethereum.org/en/dao/)
 - [Build on Web3](https://ethereum.org/en/developers/)
 
-## Web3学习路线
+## Web3学习路线!!!
 
-- 技术
+知道所需的技能树后,根据自己实际情况进行
 
-  - 语言&框架
+- 如何开发一个DApp?
+  知道了这些,就能明白为什么需要那些技术,语言,能力
+  DApp和Web2.0的程序一样,也需要前端和后端,只不过使用的技术不一样,
+  才让它具备了Web3.0的那些特性比如去中心化
 
-    - JavaScript+solidity
+  - 前端
 
-      Solidity是一种静态类型、使用花括号语法的编程语言，专门用于开发在以太坊上运行的智能合约。
+    - 语言
 
-    - Vue+React
+      JavaScript 语言    
 
-  - Python库
+    - 编辑器
 
-    - ethers.js
+      Vscode
 
-    - web3.js
+    - 框架
 
-      - Web3.js是一个库集合，允许您使用 HTTP、IPC 或 WebSocket 与本地或远程以太坊节点进行交互。
+      React(最多) or Vue框架
+      与Web2.0没啥区别
 
-      - **Web3.js**允许您开发与区块链交互的网站或客户端。例如，它允许您将以太币从一个账户发送到另一个账户、从智能合约读取和写入数据、创建智能合约等等！
+  - 后端
 
-      - **Web3.js**可用于前端和后端检查账户余额、从区块链读取数据、进行交易，甚至部署智能合约。
+    - 语言
 
-  - 智能合约
+      solidity
 
-  - 公链
+    - 编辑器
 
-- 主要语言
+      [Remix](https://github.com/ethereum/remix-ide)
 
-  - Solidity
+      Remix是solidity的IDE编辑器,类型python的pycharm和vscode
 
-    制作智能合约 smart contract
+    - 框架
 
-  - Javascript
+      HardHat
 
-    测试smart contract
+      Hardhat是一个基于javascript和solidity的开发框架，可以快速提升你的应用程序的开发速度。你可以查看[hardhat-starter-kit](https://link.zhihu.com/?target=https%3A//github.com/smartcontractkit/hardhat-starter-kit)，了解一下hardhat项目的使用案例。
 
-  一旦你掌握了Solidity和JavaScript，你就能够轻松地创建令人惊叹的作品，例如加密货币和非同质化代币（NFTs）。
+    - 基础底层库
 
-  你可以开始构建项目、运行代码并跟随教程，然后将你的成果添加到简历中。
+      - ethers.js
 
-  完成这些步骤后，你就可以开始寻找工作机会，并有机会赚取六位数的收入（针对其他国家而言）。
+      - web3.js
 
-- 所需要的核心能力
+        - Web3.js是一个库集合，允许您使用 HTTP、IPC 或 WebSocket 与本地或远程以太坊节点进行交互。
 
-  NFT，加密货币，DAPP
+        - **Web3.js**允许您开发与区块链交互的网站或客户端。例如，它允许您将以太币从一个账户发送到另一个账户、从智能合约读取和写入数据、创建智能合约等等！
 
-  - Minting NFTs
-  - Creating cryptocurrencies
-  - Making DApps (decentralized application)
+        - **Web3.js**可用于前端和后端检查账户余额、从区块链读取数据、进行交易，甚至部署智能合约。
+
+  - 智能合约工具
+
+    - **Chainlink**
+
+      Chainlink是[区块链预言机](https://link.zhihu.com/?target=https%3A//chain.link/education/blockchain-oracles)，它是一个让智能合约成为[混合智能合约](https://link.zhihu.com/?target=https%3A//blog.chain.link/hybrid-smart-contracts-explained/)的工具，它包括一些链外组件，并与现实世界连接。智能合约很好，但它们有一个巨大的问题，就是没有以任何方式与外部世界相连。要使用一些链外组件（如数据或链下计算）来保持智能合约去中心化，就必须让链外数据和计算去中心化，而这正是Chainlink网络和工具的作用。
+
+    - **Openzeppelin**
+
+      [Openzeppelin](https://link.zhihu.com/?target=https%3A//openzeppelin.com/)巩固了自己作为 “solidity标准库 ”的地位。任何时候，任何开发者（包括我自己）都在寻找一种快速的方法来[部署NFT/ERC721](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3Dp36tXHX1JD8)、[ERC20](https://link.zhihu.com/?target=https%3A//betterprogramming.pub/python-blockchain-token-deployment-tutorial-create-an-erc20-77a5fd2e1a58)、[可升级合约](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DbdXJmWajZRY)、[DAO/治理](https://link.zhihu.com/?target=https%3A//github.com/brownie-mix/dao-mix)，或者任何在这个领域的开发者想做的项目，十有八九，你会想去找一个Openzeppelin包。
+
+      Openzeppelin是一套已经写好的智能合约，所以你不需要重新发明轮子。我在项目中使用他们已经审计过的可扩展智能合约，为我节省了无数的时间。我无法强调Openzeppelin是多么的重要。我想在我大约80%的教程中，我都在以某种方式使用Openzeppelin。
+
+  - 区块链浏览器
+
+    [Etherscan](https://etherscan.io/)
+
+  - 钱包
+
+    部署智能合约，需要一个钱包来存储资金或至少是测试网的资金。出于各种目的，下面这些钱包会经常用到。
+
+    
+
+    **MetaMask**
+
+    Metamask是一个[热钱包](https://link.zhihu.com/?target=https%3A//www.gemini.com/cryptopedia/crypto-wallets-hot-cold)，很容易上手。热钱包的问题是，一旦你的私钥泄露，你就完蛋了！此外，它们总是连接到互联网上，所以如果有人进入你的电脑，你可能也会完蛋！幸运的是，有一些有用的其他工具供我们使用。
+
+    如果没钱,用metamask(比如我)
+
+    
+
+
+一旦你完成这些学习路线,你就可以
+
+- Minting NFTs
+- Creating cryptocurrencies
+- Making DApps (decentralized application)
+
+你可以开始构建项目、运行代码并跟随教程，然后将你的成果添加到简历中。
+
+完成这些步骤后，你就可以开始寻找工作机会，并有机会赚取六位数的收入（针对其他国家而言）。
 
 ## Web3.0的已有应用
 
