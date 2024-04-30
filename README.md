@@ -229,7 +229,7 @@ Web3.0实现了反转，将数据的所有权由平台反转到了创造者身�
 
 ## Web3完整技术栈
 
-![web3stack](C:\Users\25120\OneDrive\图片\Saved Pictures\web3stack.png)
+![web3stack](imgs/web3stack.png)
 
 ## Web3.0的已有应用
 
