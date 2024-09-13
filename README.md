@@ -206,14 +206,18 @@ Web3.0实现了反转，将数据的所有权由平台反转到了创造者身�
 
     部署智能合约，需要一个钱包来存储资金或至少是测试网的资金。出于各种目的，下面这些钱包会经常用到。
 
+    **BitPay**
+用于Bitcoin的
     
-
-    **MetaMask**
+Buy, store, swap and spend cryptocurrency all in one app. Turn Bitcoin into dollars with the BitPay crypto debit card. Earn cash back automatically.
+    
+**MetaMask**
+    MetaMask是用于Ethereum的
 
     Metamask是一个[热钱包](https://link.zhihu.com/?target=https%3A//www.gemini.com/cryptopedia/crypto-wallets-hot-cold)，很容易上手。热钱包的问题是，一旦你的私钥泄露，你就完蛋了！此外，它们总是连接到互联网上，所以如果有人进入你的电脑，你可能也会完蛋！幸运的是，有一些有用的其他工具供我们使用。
-
+    
     如果没钱,用metamask(比如我)
-
+    
     
 
 
