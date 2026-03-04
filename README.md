@@ -218,8 +218,9 @@ Buy, store, swap and spend cryptocurrency all in one app. Turn Bitcoin into doll
     MetaMask是用于Ethereum的
 
     Metamask是一个[热钱包](https://link.zhihu.com/?target=https%3A//www.gemini.com/cryptopedia/crypto-wallets-hot-cold)，很容易上手。热钱包的问题是，一旦你的私钥泄露，你就完蛋了！此外，它们总是连接到互联网上，所以如果有人进入你的电脑，你可能也会完蛋！幸运的是，有一些有用的其他工具供我们使用。
-    
-    如果没钱,用metamask(比如我)
+
+    建议：要么用交易所，用钱包的话就用贵点的冷钱包（比如OneKey）
+  
     
     
 
