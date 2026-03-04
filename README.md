@@ -255,43 +255,71 @@ Buy, store, swap and spend cryptocurrency all in one app. Turn Bitcoin into doll
 ## 主流币与不可能三角
 ### 什么是不可能三角？
 1.安全
+
 2.可扩展
+
 3.去中心化
+
 
 ### 主流币
 1.BTC
+
 倾向安全，去中心化
+
 2.ETH
+
 倾向安全，去中心化
+
 3.SOL
+
 倾向去中心化，可扩展
+
 TPM量大（每分钟请求数），即交易网络不拥堵，这也导致了不安全
+
 4.BNB
+
 倾向安全，可扩展
+
 中心化CEX（交易所）Binance旗下的，共识机制原因（权益权威证明 PoSA）受少数大户控制
 
 ## Layer1，Layer2是什么？公链是什么？
+
 ### 定义
 为了提高扩展性（scalability），降低成本，同时保留主网安全性，提出了 Layer2，原本的网络称为主网。
 所以称为比特币主网，以太坊主网，BSC主网（BNB的Layer1），还有比特币Layer2，和以太网Layer2
+
 ### 有哪些Layer2？
 BTC的Layer2:Lightning（闪电网络）
+
 ETH的Layer2:Arbitrum，Optimism，Base，zkSync Era，Starknet，Scroll，Manta
+
 BNB的Layer2:opBNB
+
 ### 公链是什么？
 公链 = 公开区块链网络
+
 1️⃣ 任何人都可以访问
+
 2️⃣ 任何人都可以发交易
+
 3️⃣ 任何人都可以参与验证
+
 ### 公链 vs layer1
 Layer1:独立运行的底层区块链网络
+
 公链：公开区块链网络
+
 去中心化+Layer1=公链
+
 ### 常见的公链有哪些？
 1.Bitcoin（BTC）
+
 2.Ethereum（ETH）
+
 3.BNB Smart Chain（BSC）
+
 4.Solana（SOL）
+
 5.Tron（孙哥币对应的公链）
 
 ## 四年周期 & 比特币减半 & 超买超卖
